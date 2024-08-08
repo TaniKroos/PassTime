@@ -1,5 +1,0 @@
-Router and Controller are always 1:1 
-a router <- Controller
-
-but model Controller relation can be many : 1 and 1: many 
-
