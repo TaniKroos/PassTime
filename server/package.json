@@ -18,11 +18,14 @@
     "nodemon": "^3.1.4",
     "supertest": "^7.0.0"
   },
+  "jest": "node",
   "dependencies": {
     "cors": "^2.8.5",
     "csv-parse": "^5.5.6",
     "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "mongoose": "^8.5.2",
     "morgan": "^1.10.0",
     "pm2": "^5.4.2"
   }
