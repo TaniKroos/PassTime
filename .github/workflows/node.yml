@@ -8,7 +8,7 @@ jobs:
   build:
     env:
       CI: true 
-      MONOG_URL: mongodb://localhost/nasa
+      MONGO_URL: mongodb://localhost/nasa
     strategy:
       matrix: 
         node-version: [20.x]
